@@ -1,2 +1,2 @@
 text=input()
-print(text.lover)()
+print(text.lower)()
